@@ -1,0 +1,35 @@
+// test if this works
+// could use @inport "../shortcuts";
+// but using @use if i want to use a MIXIN do shortcuts.MIXIN-NAME like its an object
+
+//tutorial here
+
+//https://www.youtube.com/watch?v=CR-a8upNjJ0&t=195s
+
+
+// @use '../shortcuts' as *;  that removes the need to use it as an object
+// @use '../shortcuts' as s;  that shortens it to s.Mixinname
+span{
+    margin-left: 1em;
+}
+span2{
+    margin-left: 2em;
+}
+span3{
+    margin-left: 3em;
+}
+span4{
+    margin-left: 4em;
+}
+span5{
+    margin-left: 5em;
+}
+span6{
+    margin-left: 6em;
+}
+span7{
+    margin-left: 7em;
+}
+span8{
+    margin-left: 8em;
+}
