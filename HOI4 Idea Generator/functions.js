@@ -181,18 +181,19 @@ function generate_ideas(){
 
 // Its simple, once you have changed everything you need to above you need the computer to generate the code. Simply remove the "//" comment tag before the code below.
 
-// if your struggling to understand this reach out to me or do some research on Javascript & Jquery Functions and Variables 
-
-
-
+// put this in the mods decisions folder
 //generate_decisions()
+
+//put this in the mods ideas folder
 //generate_ideas()
+
+
+//Save this document and run the index.html file in the same file as this
 
 //once you pick the function you want run the .html file copy and paste all of the html document into the decisions or ideas folder in your hoi4 mod file.
 
+
+
 // make sure you have included your new decisions and ideas in the category.txt file in hoi4. More about this can be found on hoi4 wiki.
-
-
 // i will look to expand this further in the future simply so i can keep practising my coding so feedback is always great ;)
-
 // Callum
